@@ -1,0 +1,179 @@
+INGRESOS TOTALES
+89757.0
+
+PRODUCTO MAS VENDIDO
+Water Bottles: 83
+
+PRECIOS POR PRODUCTO
+Mountain Bike: 1500.0
+Gravel Bike: 1200.0
+Helmets: 15.5
+Road Bike: 2000.0
+Mountain Bike Tires: 29.9
+Bike Chain: 25.0
+Cycling Gloves: 35.0
+Bike Lock: 50.0
+Water Bottles: 10.0
+Gravel Bike Tires: 45.0
+Pedals: 60.0
+Bike Light: 30.0
+Bike Chain Lube: 10.0
+Cycling Jerseys: 55.0
+Bike Pump: 40.0
+Cycling Shorts: 45.0
+Bike Helmet: 80.0
+Handlebar Grips: 15.0
+Saddle Bag: 25.0
+Bike Rack: 120.0
+Cycling Shoes: 90.0
+Saddle: 75.0
+
+INGRESOS POR DIA
+2024-08-03: 5295.0
+2024-08-04: 5400.0
+2024-08-05: 915.0
+2024-08-06: 6750.0
+2024-08-07: 3399.0
+2024-08-08: 1030.0
+2024-08-09: 2775.0
+2024-08-10: 1140.0
+2024-08-11: 1790.0
+2024-08-12: 990.0
+2024-08-13: 4240.0
+2024-08-14: 526.0
+2024-08-15: 945.0
+2024-08-16: 2825.0
+2024-08-17: 2800.0
+2024-08-18: 1300.0
+2024-08-19: 5080.0
+2024-08-20: 4320.0
+2024-08-21: 1254.0
+2024-08-22: 1020.0
+2024-08-23: 4325.0
+2024-08-24: 688.0
+2024-08-25: 2132.0
+2024-08-26: 920.0
+2024-08-27: 2689.0
+2024-08-28: 608.0
+2024-08-29: 646.0
+2024-08-30: 1680.0
+2024-08-31: 1290.0
+2024-09-01: 3560.0
+2024-09-02: 6366.0
+2024-09-03: 1064.0
+2024-09-04: 1741.0
+2024-09-05: 2872.0
+2024-09-06: 572.0
+2024-09-07: 2838.0
+2024-09-08: 1972.0
+
+MOUNTAIN BIKE
+cantidad_total: 14
+ingresos_totales: 21590.0
+precio_promedio: 1542.142857142857
+
+GRAVEL BIKE
+cantidad_total: 12
+ingresos_totales: 15070.0
+precio_promedio: 1255.8333333333333
+
+HELMETS
+cantidad_total: 30
+ingresos_totales: 465.0
+precio_promedio: 15.5
+
+ROAD BIKE
+cantidad_total: 14
+ingresos_totales: 28280.0
+precio_promedio: 2020.0
+
+MOUNTAIN BIKE TIRES
+cantidad_total: 57
+ingresos_totales: 1815.0
+precio_promedio: 31.842105263157894
+
+BIKE CHAIN
+cantidad_total: 69
+ingresos_totales: 1661.0
+precio_promedio: 24.07246376811594
+
+CYCLING GLOVES
+cantidad_total: 40
+ingresos_totales: 1382.0
+precio_promedio: 34.55
+
+BIKE LOCK
+cantidad_total: 30
+ingresos_totales: 1402.0
+precio_promedio: 46.733333333333334
+
+WATER BOTTLES
+cantidad_total: 83
+ingresos_totales: 803.0
+precio_promedio: 9.674698795180722
+
+GRAVEL BIKE TIRES
+cantidad_total: 33
+ingresos_totales: 1400.0
+precio_promedio: 42.42424242424242
+
+PEDALS
+cantidad_total: 37
+ingresos_totales: 2184.0
+precio_promedio: 59.027027027027025
+
+BIKE LIGHT
+cantidad_total: 29
+ingresos_totales: 855.0
+precio_promedio: 29.482758620689655
+
+BIKE CHAIN LUBE
+cantidad_total: 75
+ingresos_totales: 735.0
+precio_promedio: 9.8
+
+CYCLING JERSEYS
+cantidad_total: 47
+ingresos_totales: 2480.0
+precio_promedio: 52.765957446808514
+
+BIKE PUMP
+cantidad_total: 37
+ingresos_totales: 1450.0
+precio_promedio: 39.189189189189186
+
+CYCLING SHORTS
+cantidad_total: 47
+ingresos_totales: 2031.0
+precio_promedio: 43.212765957446805
+
+BIKE HELMET
+cantidad_total: 25
+ingresos_totales: 1929.0
+precio_promedio: 77.16
+
+HANDLEBAR GRIPS
+cantidad_total: 75
+ingresos_totales: 1135.0
+precio_promedio: 15.133333333333333
+
+SADDLE BAG
+cantidad_total: 11
+ingresos_totales: 293.0
+precio_promedio: 26.636363636363637
+
+BIKE RACK
+cantidad_total: 2
+ingresos_totales: 240.0
+precio_promedio: 120.0
+
+CYCLING SHOES
+cantidad_total: 23
+ingresos_totales: 2012.0
+precio_promedio: 87.47826086956522
+
+SADDLE
+cantidad_total: 7
+ingresos_totales: 545.0
+precio_promedio: 77.85714285714286
+
